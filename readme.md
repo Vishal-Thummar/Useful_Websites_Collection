@@ -299,3 +299,15 @@
 
 ---
 
+# 26. Bucketlist.nl
+
+| Field | Details |
+| --- | --- |
+| Name | Bucketlist.nl |
+| Category | Travel & Life Experiences |
+| Description | Dutch-language experience ideas and personal bucket lists. Browsing is free; some optional activities may be paid. |
+| Website | https://bucketlist.nl/ |
+| Best For | Finding travel and life-experience ideas in the Netherlands |
+
+---
+
